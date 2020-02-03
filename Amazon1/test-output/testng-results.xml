@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="9" ignored="1" total="22" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="372023" started-at="2020-01-27T10:25:56Z" finished-at="2020-01-27T10:32:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="372023" started-at="2020-01-27T10:25:56Z" finished-at="2020-01-27T10:32:08Z">
+      <class name="com.amazon.testspage.RegistrationTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeClass" is-config="true" duration-ms="9492" started-at="2020-01-27T10:25:56Z" finished-at="2020-01-27T10:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="3418" started-at="2020-01-27T10:26:07Z" finished-at="2020-01-27T10:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioFive(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioFive" duration-ms="283" started-at="2020-01-27T10:26:11Z" data-provider="getdatalogin" finished-at="2020-01-27T10:26:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.ScenarioFive(LoginTest.java:259)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioFive -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="56587" started-at="2020-01-27T10:26:11Z" finished-at="2020-01-27T10:27:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1418" started-at="2020-01-27T10:27:07Z" finished-at="2020-01-27T10:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioFour()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioFour" duration-ms="4" started-at="2020-01-27T10:27:09Z" finished-at="2020-01-27T10:27:09Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.ScenarioFour(LoginTest.java:235)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioFour -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="2499" started-at="2020-01-27T10:27:09Z" finished-at="2020-01-27T10:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1650" started-at="2020-01-27T10:27:12Z" finished-at="2020-01-27T10:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioOne(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioOne" duration-ms="2" started-at="2020-01-27T10:27:13Z" data-provider="getdatalogin" finished-at="2020-01-27T10:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.screencapture(LoginTest.java:423)
+at com.amazon.testspage.LoginTest.ScenarioOne(LoginTest.java:77)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="5190" started-at="2020-01-27T10:27:13Z" finished-at="2020-01-27T10:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1216" started-at="2020-01-27T10:27:18Z" finished-at="2020-01-27T10:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioSeven(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioSeven" duration-ms="4" started-at="2020-01-27T10:27:20Z" data-provider="getdatalogin" finished-at="2020-01-27T10:27:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.ScenarioSeven(LoginTest.java:361)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioSeven -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="1028" started-at="2020-01-27T10:27:20Z" finished-at="2020-01-27T10:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1297" started-at="2020-01-27T10:27:21Z" finished-at="2020-01-27T10:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioSix(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioSix" duration-ms="2" started-at="2020-01-27T10:27:22Z" data-provider="getdatalogin" finished-at="2020-01-27T10:27:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.ScenarioSix(LoginTest.java:288)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioSix -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="1227" started-at="2020-01-27T10:27:22Z" finished-at="2020-01-27T10:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1248" started-at="2020-01-27T10:27:23Z" finished-at="2020-01-27T10:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioThree(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioThree" duration-ms="2" started-at="2020-01-27T10:27:25Z" data-provider="getdatalogin" finished-at="2020-01-27T10:27:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.ScenarioThree(LoginTest.java:191)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioThree -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="1306" started-at="2020-01-27T10:27:25Z" finished-at="2020-01-27T10:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="3652" started-at="2020-01-27T10:27:26Z" finished-at="2020-01-27T10:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioTwo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioTwo" duration-ms="2" started-at="2020-01-27T10:27:30Z" data-provider="getdatalogin" finished-at="2020-01-27T10:27:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.amazon.testspage.LoginTest.ScenarioTwo(LoginTest.java:162)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="33963" started-at="2020-01-27T10:27:30Z" finished-at="2020-01-27T10:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1292" started-at="2020-01-27T10:28:04Z" finished-at="2020-01-27T10:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioFive(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioFive" duration-ms="3659" started-at="2020-01-27T10:28:05Z" data-provider="getdata" finished-at="2020-01-27T10:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioFive -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="1469" started-at="2020-01-27T10:28:09Z" finished-at="2020-01-27T10:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="2990" started-at="2020-01-27T10:28:10Z" finished-at="2020-01-27T10:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioFour(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioFour" duration-ms="1789" started-at="2020-01-27T10:28:13Z" data-provider="getdata" finished-at="2020-01-27T10:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioFour -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="1300" started-at="2020-01-27T10:28:15Z" finished-at="2020-01-27T10:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1337" started-at="2020-01-27T10:28:16Z" finished-at="2020-01-27T10:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioOne(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioOne" duration-ms="34603" started-at="2020-01-27T10:28:18Z" data-provider="getdata" finished-at="2020-01-27T10:28:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="13434" started-at="2020-01-27T10:28:52Z" finished-at="2020-01-27T10:29:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1239" started-at="2020-01-27T10:29:06Z" finished-at="2020-01-27T10:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioSeven(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioSeven" duration-ms="14453" started-at="2020-01-27T10:29:07Z" data-provider="getdata" finished-at="2020-01-27T10:29:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioSeven -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="2711" started-at="2020-01-27T10:29:22Z" finished-at="2020-01-27T10:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1360" started-at="2020-01-27T10:29:24Z" finished-at="2020-01-27T10:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioSix(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioSix" duration-ms="9045" started-at="2020-01-27T10:29:26Z" data-provider="getdata" finished-at="2020-01-27T10:29:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='authportal-main-section']//p[contains(text(),'already exists')]"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PDCDT01GY4ZVQ1', ip: '192.168.2.3', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\P10404~1.PDC\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57709}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fb9e4c6c6c618abd0d9becf529512f00
+*** Element info: {Using=xpath, value=//div[@id='authportal-main-section']//p[contains(text(),'already exists')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='authportal-main-section']//p[contains(text(),'already exists')]"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PDCDT01GY4ZVQ1', ip: '192.168.2.3', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\P10404~1.PDC\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57709}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fb9e4c6c6c618abd0d9becf529512f00
+*** Element info: {Using=xpath, value=//div[@id='authportal-main-section']//p[contains(text(),'already exists')]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy13.getText(Unknown Source)
+at com.amazon.pages.RegistrationPage.RegisMob(RegistrationPage.java:185)
+at com.amazon.testspage.RegistrationTest.ScenarioSix(RegistrationTest.java:343)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioSix -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="4597" started-at="2020-01-27T10:29:35Z" finished-at="2020-01-27T10:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1111" started-at="2020-01-27T10:29:39Z" finished-at="2020-01-27T10:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioThree(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioThree" duration-ms="20643" started-at="2020-01-27T10:29:41Z" data-provider="getdata" finished-at="2020-01-27T10:30:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioThree -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="3674" started-at="2020-01-27T10:30:01Z" finished-at="2020-01-27T10:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="beforeMethod" is-config="true" duration-ms="1149" started-at="2020-01-27T10:30:05Z" finished-at="2020-01-27T10:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioTwo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="ScenarioTwo" duration-ms="18574" started-at="2020-01-27T10:30:06Z" data-provider="getdata" finished-at="2020-01-27T10:30:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9011288023]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdvsdvsd31@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password$123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hello, Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterMethod" is-config="true" duration-ms="4062" started-at="2020-01-27T10:30:25Z" finished-at="2020-01-27T10:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterClass" is-config="true" duration-ms="1391" started-at="2020-01-27T10:30:29Z" finished-at="2020-01-27T10:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.amazon.testspage.RegistrationTest@7b227d8d]" name="afterSuite" is-config="true" duration-ms="556" started-at="2020-01-27T10:32:08Z" finished-at="2020-01-27T10:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.amazon.testspage.RegistrationTest -->
+      <class name="com.amazon.testspage.LoginTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeClass" is-config="true" duration-ms="6268" started-at="2020-01-27T10:30:30Z" finished-at="2020-01-27T10:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="2570" started-at="2020-01-27T10:30:36Z" finished-at="2020-01-27T10:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioFive(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioFive" duration-ms="3765" started-at="2020-01-27T10:30:39Z" data-provider="getdatalogin" finished-at="2020-01-27T10:30:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioFive -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-01-27T10:30:43Z" finished-at="2020-01-27T10:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="488" started-at="2020-01-27T10:30:43Z" finished-at="2020-01-27T10:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioFour()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioFour" duration-ms="734" started-at="2020-01-27T10:30:43Z" finished-at="2020-01-27T10:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioFour -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-01-27T10:30:44Z" finished-at="2020-01-27T10:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="684" started-at="2020-01-27T10:30:44Z" finished-at="2020-01-27T10:30:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioOne(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioOne" duration-ms="31403" started-at="2020-01-27T10:30:45Z" data-provider="getdatalogin" finished-at="2020-01-27T10:31:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-01-27T10:31:16Z" finished-at="2020-01-27T10:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="798" started-at="2020-01-27T10:31:16Z" finished-at="2020-01-27T10:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioSeven(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioSeven" duration-ms="1225" started-at="2020-01-27T10:31:17Z" data-provider="getdatalogin" finished-at="2020-01-27T10:31:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioSeven -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-01-27T10:31:18Z" finished-at="2020-01-27T10:31:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="2367" started-at="2020-01-27T10:31:18Z" finished-at="2020-01-27T10:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ScenarioSix(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioSix" duration-ms="23333" started-at="2020-01-27T10:31:21Z" data-provider="getdatalogin" finished-at="2020-01-27T10:31:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='nav-link-accountList']/span[contains(text(),'Hello,')]"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PDCDT01GY4ZVQ1', ip: '192.168.2.3', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\P10404~1.PDC\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ba6e03412310c41395411846b1e0c51d
+*** Element info: {Using=xpath, value=//a[@id='nav-link-accountList']/span[contains(text(),'Hello,')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='nav-link-accountList']/span[contains(text(),'Hello,')]"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PDCDT01GY4ZVQ1', ip: '192.168.2.3', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\P10404~1.PDC\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ba6e03412310c41395411846b1e0c51d
+*** Element info: {Using=xpath, value=//a[@id='nav-link-accountList']/span[contains(text(),'Hello,')]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy13.getText(Unknown Source)
+at com.amazon.pages.VerifyUserLoggedInPage.Verifylogin(VerifyUserLoggedInPage.java:33)
+at com.amazon.testspage.LoginTest.ScenarioSix(LoginTest.java:329)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioSix -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-01-27T10:31:44Z" finished-at="2020-01-27T10:31:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="515" started-at="2020-01-27T10:31:45Z" finished-at="2020-01-27T10:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioThree(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioThree" duration-ms="19000" started-at="2020-01-27T10:31:45Z" data-provider="getdatalogin" finished-at="2020-01-27T10:32:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioThree -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-01-27T10:32:04Z" finished-at="2020-01-27T10:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="beforeMethod" is-config="true" duration-ms="395" started-at="2020-01-27T10:32:04Z" finished-at="2020-01-27T10:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ScenarioTwo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="ScenarioTwo" duration-ms="1811" started-at="2020-01-27T10:32:05Z" data-provider="getdatalogin" finished-at="2020-01-27T10:32:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[g.gaurav2812@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TWF1bGlAMjgxMiQ=]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hello, Gaurav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[asdhjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8793100405]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioTwo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterClass" is-config="true" duration-ms="1943" started-at="2020-01-27T10:32:06Z" finished-at="2020-01-27T10:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.amazon.testspage.LoginTest@7219ec67]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-01-27T10:32:06Z" finished-at="2020-01-27T10:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.amazon.testspage.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

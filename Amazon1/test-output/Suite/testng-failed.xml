@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.amazon.testspage.RegistrationTest">
+        <methods>
+          <include name="ScenarioFive" invocation-numbers="0"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="ScenarioSix" invocation-numbers="0"/>
+          <include name="ScenarioThree" invocation-numbers="0"/>
+          <include name="afterSuite"/>
+          <include name="ScenarioSeven" invocation-numbers="0"/>
+          <include name="ScenarioFour"/>
+          <include name="ScenarioOne" invocation-numbers="0"/>
+          <include name="ScenarioSix" invocation-numbers="0"/>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+          <include name="ScenarioTwo" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.amazon.testspage.RegistrationTest -->
+      <class name="com.amazon.testspage.LoginTest">
+        <methods>
+          <include name="ScenarioSix" invocation-numbers="0"/>
+          <include name="afterClass"/>
+          <include name="afterSuite"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.amazon.testspage.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

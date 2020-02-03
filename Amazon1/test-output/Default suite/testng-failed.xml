@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.amazon.testspage.LoginTest">
+        <methods>
+          <include name="ScenarioSix" invocation-numbers="0"/>
+          <include name="afterClass"/>
+          <include name="ScenarioThree" invocation-numbers="0"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="ScenarioTwo" invocation-numbers="0"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.amazon.testspage.LoginTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,783 @@
+2020-01-02 07:32:37,650 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-02 07:32:39,676 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-02 07:44:54,896 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 07:44:57,265 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 07:45:03,333 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 07:45:03,623 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 07:46:08,610 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-02 07:46:11,023 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-02 07:56:01,741 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 07:56:04,205 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 07:56:06,919 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 07:57:36,343 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 07:57:38,540 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 07:57:44,240 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 07:57:44,509 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 07:59:34,101 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 07:59:36,324 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 07:59:39,012 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 08:10:37,902 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 08:10:39,944 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 08:10:42,413 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 08:11:26,243 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 08:11:28,315 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 08:11:34,735 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 08:11:35,048 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 08:12:00,777 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 08:12:02,919 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 08:12:05,420 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 08:20:42,554 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 08:20:44,464 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 08:20:47,149 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 08:20:47,273 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 08:21:06,163 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 08:22:49,571 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 08:22:51,875 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 08:22:54,416 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 08:22:54,496 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 08:23:11,413 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 09:22:28,116 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-02 09:22:30,242 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-02 09:24:11,872 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 09:24:13,823 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 09:24:20,847 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 09:24:21,370 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 09:41:30,859 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 09:41:32,755 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 09:41:35,319 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 09:41:35,400 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 09:41:52,931 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 09:51:56,866 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 09:51:59,137 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 09:52:01,700 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 09:52:01,769 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 09:52:18,159 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 10:16:58,839 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:17:01,163 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:17:03,717 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:17:03,801 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 10:22:57,991 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:23:00,646 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:23:06,645 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:23:06,955 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 10:24:28,362 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:24:30,511 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:24:32,972 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:24:33,045 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 10:25:55,204 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:25:57,727 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:26:03,543 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:26:58,263 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:27:00,140 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:27:02,643 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:27:02,695 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 10:29:56,171 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:29:58,162 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:30:00,774 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:30:00,838 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 10:32:47,991 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:32:50,148 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:32:52,723 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:32:52,809 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 10:34:31,394 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:34:33,254 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:34:35,907 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:34:35,983 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 10:35:56,828 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:35:58,908 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:36:05,608 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:36:05,951 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 10:50:11,079 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:50:13,431 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:50:20,187 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:50:20,477 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 10:54:49,570 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 10:54:52,664 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 10:54:58,994 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 10:54:59,397 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 11:01:44,720 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:01:47,094 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:01:53,990 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:01:54,466 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 11:02:02,569 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:03:04,717 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:03:07,258 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:03:14,147 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:03:14,510 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 11:03:23,199 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:04:25,637 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:04:27,879 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:04:35,142 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:04:35,497 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 11:08:15,047 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:08:17,724 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:08:24,573 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:08:24,997 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 11:41:06,556 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:41:08,937 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:41:11,493 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:41:11,600 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 11:44:09,119 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-02 11:44:11,278 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-02 11:44:45,195 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:44:47,494 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:44:55,770 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:44:56,352 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 11:45:04,835 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:45:11,446 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 11:50:31,517 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:50:34,039 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 11:50:52,942 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 11:50:54,935 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 11:50:57,595 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 11:50:57,694 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 12:17:36,990 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 12:17:39,143 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 12:17:41,846 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 12:17:41,980 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 12:17:57,034 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 12:18:05,842 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 12:51:20,123 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 12:51:22,901 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 12:51:25,823 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 12:51:25,955 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 13:20:57,158 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 13:20:59,232 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 13:21:01,939 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 13:21:02,021 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 13:21:16,470 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 13:25:18,100 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 13:25:20,656 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 13:25:23,379 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 13:25:23,469 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 13:25:36,988 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 13:25:45,020 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 13:25:47,674 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:08:40,970 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:08:53,116 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:08:55,124 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:08:57,695 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:08:57,772 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:09:11,390 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 14:11:47,438 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:11:59,413 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:12:00,984 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:12:03,553 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:12:03,624 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:12:19,525 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 14:12:30,776 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:12:33,313 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:18:14,482 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:18:30,445 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:18:32,717 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:18:35,550 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:18:35,626 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:19:02,615 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:19:03,780 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:19:10,470 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:19:11,067 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 14:19:22,813 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:19:25,421 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:25:34,181 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:25:48,609 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:25:50,757 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:25:53,539 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:25:53,665 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:26:13,371 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 14:27:23,858 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:27:37,198 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:27:39,028 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:27:41,597 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:27:41,715 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:28:17,997 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 14:28:19,171 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:28:21,477 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 14:28:21,538 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 14:28:40,822 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 14:28:53,085 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 14:28:55,470 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:32:41,708 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:32:56,443 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:32:58,413 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:33:01,024 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:33:01,112 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:33:56,637 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:33:57,799 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:34:04,302 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:34:04,736 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:34:15,908 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:34:18,469 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:40:19,394 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:40:32,435 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:40:34,543 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:40:37,169 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:40:37,261 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:40:54,687 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:41:11,196 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:41:12,965 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:41:19,987 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:41:20,570 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:46:15,769 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:46:31,274 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:46:33,208 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:46:40,402 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:46:41,151 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:46:56,812 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:46:58,164 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:47:04,239 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:47:04,750 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:47:17,195 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:47:19,907 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:50:15,815 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:50:32,021 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:50:33,895 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:50:36,589 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:50:36,693 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:51:09,194 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:51:10,666 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:51:16,628 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:51:17,059 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:51:28,765 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:51:31,161 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:53:50,813 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:54:06,349 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:54:08,492 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:54:11,010 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:54:11,108 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:54:29,916 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:54:45,924 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-02 15:54:47,174 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:54:53,780 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-02 15:54:54,221 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-02 15:55:06,890 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-02 15:55:09,460 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-02 15:57:01,332 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-02 15:57:04,608 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 13:17:29,932 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:17:41,653 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:17:43,651 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:17:46,354 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:17:46,435 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:18:02,239 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:18:15,909 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:18:16,995 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:18:22,536 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:18:22,840 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:18:33,703 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:18:36,236 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:24:17,884 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:24:31,636 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:24:33,803 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:24:36,565 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:24:36,649 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:24:49,657 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:25:04,353 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:25:05,712 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:25:11,961 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:25:12,244 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:25:23,427 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:25:25,900 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:29:23,796 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:29:35,595 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:29:37,824 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:29:40,578 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:29:40,655 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:30:19,305 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:30:20,631 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:30:28,587 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:30:28,861 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:30:40,301 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:30:43,205 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:39:32,807 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:39:46,322 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:39:48,589 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:39:51,271 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:39:51,357 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:40:10,094 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:40:24,323 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:40:25,767 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:40:32,373 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:40:33,005 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:40:44,264 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:40:46,879 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:44:02,602 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:44:16,165 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:44:18,098 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:44:20,854 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:44:20,937 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:44:38,768 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:44:52,801 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:44:54,252 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:44:59,739 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:45:00,043 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:45:10,997 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:45:13,650 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:48:11,190 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:48:24,618 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:48:26,751 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:48:29,400 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:48:29,476 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:48:47,852 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:49:01,796 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:49:03,061 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:49:05,335 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:49:05,389 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:49:21,530 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:49:32,562 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:49:35,079 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:50:58,957 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:51:10,419 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:51:12,283 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:51:14,901 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:51:14,974 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:51:32,346 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:51:45,722 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:51:46,941 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:51:54,309 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:51:54,543 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:56:22,843 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:56:35,185 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:56:37,117 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:56:39,913 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:56:39,995 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 13:56:56,050 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:57:10,165 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 13:57:11,784 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:57:16,846 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 13:57:17,169 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 13:57:29,478 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 13:57:32,190 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:01:58,656 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:02:18,612 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:02:20,597 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:02:23,382 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:02:23,505 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:02:40,682 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:03:03,653 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:03:05,341 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:03:10,572 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:03:10,881 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:03:24,962 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:03:27,695 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:03:56,348 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:08:34,730 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:08:56,948 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:08:58,986 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:09:01,677 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:09:01,797 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:09:20,982 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:09:42,257 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:09:43,755 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:09:49,860 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:09:50,131 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:10:04,734 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:10:07,406 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:11:15,863 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:11:35,694 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:11:37,588 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:11:40,222 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:11:40,332 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:11:55,878 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:12:14,738 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:12:15,934 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:12:21,362 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:12:21,600 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:12:41,234 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:12:43,691 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:13:35,800 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:13:53,843 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:13:55,920 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:13:58,540 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:13:58,632 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:14:41,023 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 14:14:42,520 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:14:48,455 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 14:14:48,848 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 14:15:02,984 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 14:15:05,723 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 14:28:35,058 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 14:28:38,731 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 14:39:46,148 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 14:39:49,717 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:00:08,955 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:00:11,700 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:00:48,418 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:00:52,375 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:00:52,422 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:02:58,073 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:03:01,903 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:03:01,953 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:11:17,010 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:11:21,401 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:11:21,454 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:15:15,614 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:15:19,103 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:15:19,168 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:17:12,001 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:17:15,692 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:17:15,786 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:21:45,696 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:21:49,339 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:21:49,380 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:37:37,803 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-03 15:37:41,805 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-03 15:37:41,865 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-03 15:47:45,562 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 15:48:04,408 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 15:48:06,382 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 15:48:09,284 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 15:48:09,375 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 15:48:30,050 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 15:48:48,445 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-03 15:48:50,053 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 15:48:52,192 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-03 15:48:52,248 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-03 15:49:04,266 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-03 15:49:17,742 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-03 15:49:20,152 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-04 07:46:50,636 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 07:46:54,048 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 08:05:01,204 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 08:05:04,782 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 08:42:06,251 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 08:42:10,116 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 08:54:09,420 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 08:54:14,552 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:02:23,421 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:02:28,352 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:02:39,985 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:05:34,088 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:05:38,444 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:05:55,016 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:05:57,532 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:09:21,913 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:09:26,474 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:09:42,532 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:09:45,952 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:22:00,713 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:22:05,652 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:22:23,348 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:22:26,963 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:22:39,608 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:22:42,617 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:26:22,239 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:26:26,424 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:28:13,620 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:28:18,132 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:28:33,776 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:28:36,473 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:28:46,443 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:28:48,903 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:30:10,246 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:30:15,528 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:30:15,612 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:30:42,219 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:30:45,040 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:30:45,091 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:31:04,317 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:31:07,169 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:31:07,214 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:32:31,674 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:32:36,431 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:32:36,495 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:33:02,593 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:33:05,554 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:33:05,607 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:33:29,958 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:33:32,763 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:33:32,816 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:35:44,470 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:35:49,829 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:38:01,358 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:38:06,427 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:38:06,476 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:38:31,481 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:38:35,725 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:38:35,799 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 10:39:02,050 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 10:39:06,467 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 10:39:06,521 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 11:04:07,573 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 11:09:17,569 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 11:11:17,060 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 11:57:30,739 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 11:57:34,604 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 11:57:50,199 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 11:57:52,641 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 11:58:03,010 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 11:58:05,610 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 11:59:42,679 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 11:59:49,998 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 11:59:53,903 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:00:15,480 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:00:19,855 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:00:34,683 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:00:37,242 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:07:58,965 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:08:07,991 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:08:14,084 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:08:18,006 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:09:23,011 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:09:25,827 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:09:41,436 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:09:43,915 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:17:07,611 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:17:16,372 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:17:22,534 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:17:26,938 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:17:26,996 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:18:00,650 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:18:08,997 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:18:11,938 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:18:11,988 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:18:34,685 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:18:37,735 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:18:37,832 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:24:00,669 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:24:09,975 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:24:16,458 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:24:20,881 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:24:20,947 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:24:51,488 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-04 12:25:00,303 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-04 12:25:08,104 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:25:11,773 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:25:11,826 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:25:40,480 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:25:43,585 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:25:43,641 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:29:43,135 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:29:53,508 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-04 12:29:59,225 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:30:03,776 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:30:03,836 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:30:28,976 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-04 12:30:32,006 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:30:46,247 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-04 12:30:54,575 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:30:57,474 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:30:57,527 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-04 12:31:20,090 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-04 12:31:23,655 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-04 12:31:23,814 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-06 07:40:15,406 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 07:40:36,228 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 07:40:38,298 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 07:40:41,012 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-06 07:40:41,160 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-06 07:40:58,547 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-06 07:41:18,562 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 07:41:20,102 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 07:41:28,002 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-06 07:41:28,310 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-06 07:41:42,266 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 07:41:45,087 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-06 07:52:19,804 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 07:52:29,713 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 07:52:36,257 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 07:52:40,487 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 07:53:06,312 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-06 07:53:13,862 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-06 07:53:22,620 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 07:53:25,258 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 07:53:40,504 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 07:53:43,021 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 09:06:17,226 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 09:06:26,362 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 09:06:33,214 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 09:06:37,427 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 09:06:37,512 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-06 09:07:14,321 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-06 09:07:17,601 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-06 09:07:32,176 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-06 09:07:40,451 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 09:07:43,793 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 09:07:43,839 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-06 09:08:07,854 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 09:08:11,343 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 09:08:11,520 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-06 11:46:49,252 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 11:46:58,110 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 11:47:05,614 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 11:47:09,829 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 11:47:35,772 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-06 11:47:44,029 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-06 11:47:54,194 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 11:47:56,737 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 11:48:13,685 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 11:48:17,317 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 11:48:44,111 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 11:49:15,552 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 11:49:18,081 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 11:49:25,228 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-06 11:49:29,340 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-06 11:50:16,884 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 11:50:18,374 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 11:50:24,471 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-06 11:50:24,862 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-06 11:50:39,560 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 12:10:27,120 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 12:10:36,165 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 12:10:43,275 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 12:10:47,371 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 12:11:21,826 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-06 12:11:30,649 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-06 12:11:40,669 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 12:11:43,436 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 12:11:58,145 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 12:12:01,223 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 12:12:27,424 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 12:12:40,994 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 12:12:43,639 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 12:12:53,475 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-06 12:12:57,406 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-06 12:13:12,913 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-06 12:13:14,223 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 12:13:21,576 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-06 12:13:21,899 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-06 12:13:35,028 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-06 12:13:42,004 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-06 16:08:11,748 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 16:08:20,350 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-06 16:08:26,720 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 16:08:30,630 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 16:08:58,455 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-06 16:09:06,804 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-06 16:09:16,020 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 16:09:18,470 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-06 16:09:33,609 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-06 16:09:36,505 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-16 08:26:24,450 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-16 08:26:40,612 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-16 08:26:43,601 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-16 08:26:54,460 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-16 08:26:58,844 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-16 08:27:20,728 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-16 08:27:22,307 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-16 08:27:31,092 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-16 08:27:31,472 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-16 08:27:45,329 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-16 08:32:15,040 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-16 08:36:10,291 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-16 08:36:22,091 TRACE c.a.t.RegistrationTest [main] Starting 4th Test.
+2020-01-16 08:36:30,615 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-16 08:36:34,379 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-16 08:36:57,884 TRACE c.a.t.RegistrationTest [main] Starting 7th Test.
+2020-01-16 08:37:10,538 TRACE c.a.t.RegistrationTest [main] Starting 6th Test.
+2020-01-16 08:37:24,980 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-16 08:37:28,003 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-16 08:37:39,776 TRACE c.a.t.RegistrationTest [main] Starting Test.
+2020-01-16 08:37:42,935 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:10:34,478 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Five =====
+2020-01-17 12:10:42,024 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Four =====
+2020-01-17 12:10:46,127 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 12:10:50,291 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:10:50,360 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:11:22,433 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Seven =====
+2020-01-17 12:11:26,002 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:11:37,626 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Six =====
+2020-01-17 12:11:43,463 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Three =====
+2020-01-17 12:11:46,419 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:11:46,476 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:12:15,683 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Two =====
+2020-01-17 12:12:19,709 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:12:19,755 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:12:48,502 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Five=====
+2020-01-17 12:12:54,485 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Four =====
+2020-01-17 12:12:55,999 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario One =====
+2020-01-17 12:12:56,499 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-17 12:12:59,090 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 12:13:02,820 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 12:13:02,879 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-17 12:13:18,737 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-17 12:13:59,117 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Seven =====
+2020-01-17 12:14:00,610 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Six =====
+2020-01-17 12:14:01,776 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 12:14:05,740 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 12:14:05,839 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-17 12:14:11,502 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Three =====
+2020-01-17 12:14:13,945 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 12:14:17,067 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-17 12:14:35,747 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Two =====
+2020-01-17 12:27:25,332 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Five =====
+2020-01-17 12:27:31,326 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Four =====
+2020-01-17 12:27:34,645 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 12:30:08,242 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Five =====
+2020-01-17 12:30:15,504 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Four =====
+2020-01-17 12:30:20,831 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 12:30:26,828 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:30:26,886 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:32:49,661 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Five =====
+2020-01-17 12:33:19,817 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Four =====
+2020-01-17 12:33:28,989 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 12:33:33,661 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:33:33,709 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:34:06,280 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Seven =====
+2020-01-17 12:34:09,862 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:34:31,642 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Six =====
+2020-01-17 12:34:39,912 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Three =====
+2020-01-17 12:34:42,953 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:34:43,005 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:35:21,304 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Two =====
+2020-01-17 12:35:24,994 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 12:35:25,045 TRACE c.a.t.RegistrationTest [main] We are on captcha page
+2020-01-17 12:35:57,120 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Five=====
+2020-01-17 12:36:06,874 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Four =====
+2020-01-17 12:36:14,179 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario One =====
+2020-01-17 12:36:14,612 TRACE c.a.t.LoginTest [main] Starting Test.
+2020-01-17 12:36:16,957 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 12:36:20,571 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 12:36:20,629 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-17 12:37:00,003 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Seven =====
+2020-01-17 12:37:10,488 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Six =====
+2020-01-17 12:37:11,631 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 12:37:14,285 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 12:37:14,365 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-17 12:37:25,759 TRACE c.a.t.LoginTest [main] We are on captcha page
+2020-01-17 12:37:40,114 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-17 12:38:00,487 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Three =====
+2020-01-17 12:38:14,520 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Two =====
+2020-01-17 15:14:44,124 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Five=====
+2020-01-17 15:15:15,179 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Four =====
+2020-01-17 15:15:55,690 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Seven =====
+2020-01-17 15:16:05,556 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Six =====
+2020-01-17 15:16:06,935 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 15:16:09,084 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 15:16:09,621 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-17 15:16:27,820 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Three =====
+2020-01-17 15:16:33,820 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Two =====
+2020-01-17 15:22:53,980 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Five=====
+2020-01-17 15:23:05,720 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Four =====
+2020-01-17 15:23:42,224 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Seven =====
+2020-01-17 15:23:50,439 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Six =====
+2020-01-17 15:23:51,821 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 15:23:54,211 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 15:23:54,675 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-17 15:24:12,956 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Three =====
+2020-01-17 15:24:17,604 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Two =====
+2020-01-17 15:31:21,430 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Two =====
+2020-01-17 15:31:26,135 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Three =====
+2020-01-17 15:31:28,649 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 15:31:40,829 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Four =====
+2020-01-17 15:31:44,906 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Five=====
+2020-01-17 15:31:50,592 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Six =====
+2020-01-17 15:31:51,993 TRACE c.a.t.LoginTest [main] Username done landed on Next Page
+2020-01-17 15:31:54,447 TRACE c.a.t.LoginTest [main] Landed successfully on user home page
+2020-01-17 15:31:54,777 TRACE c.a.t.LoginTest [main] Completed test execution
+2020-01-17 15:32:02,744 TRACE c.a.t.LoginTest [main] ====LoginTest --> Scenario Seven =====
+2020-01-17 15:53:39,849 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Five =====
+2020-01-17 15:53:47,959 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Four =====
+2020-01-17 15:53:54,635 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 15:53:58,285 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 15:54:19,981 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Seven =====
+2020-01-17 15:54:26,287 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Six =====
+2020-01-17 15:54:33,312 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Three =====
+2020-01-17 15:54:35,867 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 15:54:48,321 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario Two =====
+2020-01-17 15:54:51,246 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 16:17:12,734 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 16:17:17,525 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 16:19:45,511 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 16:19:49,599 TRACE c.a.t.RegistrationTest [main] All details entered and submitted
+2020-01-17 16:23:48,790 TRACE c.a.t.RegistrationTest [main] ====Registration Test --> Scenario One =====
+2020-01-17 16:23:55,466 TRACE c.a.t.RegistrationTest [main] All details entered and submitted

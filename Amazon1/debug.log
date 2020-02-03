@@ -1,0 +1,10 @@
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0102/082118.985:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0118/090151.953:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
